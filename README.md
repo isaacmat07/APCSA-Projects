@@ -1,1 +1,1 @@
-Each branch includes various projects I've coded during my APCSA course
+This Java project simulates a virtual tulip garden, allowing users to create, modify, and interact with tulip objects. It practices object-oriented programming concepts such as class creation, constructors, instance variables, Graphics and method implementation. The program includes features like cloning tulips, moving them to new locations, and combining colors to create new tulip varieties
