@@ -1,1 +1,1 @@
-Each branch includes various projects I've coded during my APCSA course
+This simple Java project utilizes while loops and Scanner objects to process numerical data and perform basic statistical analysis. It reads input data, calculates the sum, mean, minimum, maximum, and standard deviation, and displays the results. The program showcases the practical application of control structures, input parsing, and mathematical operations in Java.
