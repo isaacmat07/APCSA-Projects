@@ -1,1 +1,1 @@
-Each branch includes various projects I've coded during my APCSA course
+This project involves creating a simulation of square blocks that move along one dimension and collide elastically without friction. It models physical properties of blocks, such as mass and velocity, and calculates kinetic energy and handles collisions in a Java program according to the laws of physics
